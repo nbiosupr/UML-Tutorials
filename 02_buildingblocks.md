@@ -41,6 +41,7 @@ UML의 building block들은 이렇게 정의될 수 있습니다.
 
 ## 그룹화 Things
 **그룹화 Things**는 UML 모델의 구성 요소들을 그룹화하는 메커니즘 입니다.
+
 **패키지(Package)** - 패키지는 구조적인 Thing과 행동적인 Things를 묶어주는 하나 밖에 없는 그룹화 Things 입니다.
 
 https://www.tutorialspoint.com/uml/uml_building_blocks.htm
