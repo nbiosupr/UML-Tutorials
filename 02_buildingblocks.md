@@ -39,4 +39,8 @@ UML의 building block들은 이렇게 정의될 수 있습니다.
 
 **상태 머신(State machine)** - 상태머신은 객체의 라이프 사이클 상태가 중요할 때 유용합니다. 상태머신은 객체가 이벤트에 응답하여 진행하는 상태의 순서를 나타낼 수 있습니다. 이벤트들은 상태의 변화를 일으키는 외부적인 요인입니다.
 
+## 그룹화 Things
+**그룹화 Things**는 UML 모델의 구성 요소들을 그룹화하는 메커니즘 입니다.
+**패키지(Package)** - 패키지는 구조적인 Thing과 행동적인 Things를 묶어주는 하나 밖에 없는 그룹화 Things 입니다.
+
 https://www.tutorialspoint.com/uml/uml_building_blocks.htm
